@@ -27,3 +27,12 @@ __Checking for Palindromes__ This task was also fine. I do not think I originall
 1. Convert the str inputting into a lowercase and remove all non-alphabatical stuff like spaces etc. 
 2. Create a for loop with goes through the entire length of the word.
 3. If statement that checks if the letters are the same and in the correct order. If it is not then it returns false and if it is then it returns true.
+
+//REMEMBBER TO FILL THESE IN
+
+## 6 - Return the Largest Numbers
+__Returning Large Numbbers__ I am going to attempt looping through one of the sub arrays and actually returning the largest number. From there I would want to loop through all the arrays and return the largest numbers and finally I would want to push all those numbers into a new array or sub array. 
+
+Outter for loop x = 0 then in the inner for loop, compare the items in the sub-array with x and if the item is bigger than x, set x to be the item. That'll pick out the biggest. Once i come out of of the inner for loop, I want to add 1 to x so it increments to the next array.
+During the inner for loop. X = 0 
+
